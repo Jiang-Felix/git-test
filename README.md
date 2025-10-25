@@ -13,3 +13,6 @@
 - Version 1.0:
     Addition of source code "test01.cpp"
     Reform of "README.md" file
+- Version 1.1:
+    Addition of source code "guessNumber.py"
+
