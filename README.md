@@ -22,3 +22,5 @@
     	hello.txt
 	guess\_the\_number.py
 	message.txt
+- Version 2.1:
+    Addition of ".gitnore"
